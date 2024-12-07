@@ -16,24 +16,6 @@ This document explains how to build a Discord bot using Rust that can send image
 
 ---
 
-## Steps to Create the Bot
-
-### 1. Set Up the Rust Project
-
-Initialize a new Rust project:
-```bash
-cargo new discord_image_bot
-cd discord_image_bot
-```
-
-Add dependencies in `Cargo.toml`:
-```toml
-[dependencies]
-serenity = "0.11"
-tokio = { version = "1", features = ["full"] }
-```
-
----
 
 ### 2. Bot Code
 

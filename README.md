@@ -142,6 +142,6 @@ Discord enforces API rate limits. Avoid spamming excessively as it violates Disc
 
 This bot provides a foundation for building more advanced features while staying compliant with Discord’s API guidelines.
 
-## Made By bigappleboi2004
+## Made By jaaren
 
 
